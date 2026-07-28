@@ -1,7 +1,7 @@
 # 📊 [Project Title: e.g., E-Commerce Customer Churn Analysis]
 
 ### **Author:** [Student Name]  
-### **Cohort / Program:** Data Analytics & Power BI Training — Vrit Job  
+### **Program:** Data Analytics & Power BI Training — Vrit Job  
 
 
 ---
